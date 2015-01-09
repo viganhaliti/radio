@@ -1,7 +1,7 @@
 {
 	"radio":
 	[
-      {"radio_id":"1", "name”:”HRT”, "url":"http://144.76.172.23:7038/stream" , "img_url":"http://www.frosat.net/images/logotv/original/Logo_Europa_Plus_RU.gif"},
+      {"radio_id":"1", "name”:”hitfm”, "url":"http://www.hitfm.ua/HitFM.m3u" , "img_url":"http://www.frosat.net/images/logotv/original/Logo_Europa_Plus_RU.gif"},
       {"radio_id":"2", "name":"hitfm", "url":"http://www.hitfm.ua/HitFM.m3u" , "img_url":"http://www.hitfm.ua/static/img/hit_fm_logo.png"},
       {"radio_id":"3", "name":"kissfm", "url":"http://kissfm.ua/v3/kiss-fast.m3u", "img_url":"http://new.kissfm.ua/static/img/kiss-logo.jpg"},
       {"radio_id":"4", "name":"rusradio", "url":"http://www.rusradio.com.ua/RusRadio.m3u", "img_url":"http://proxy11.media.online.ua/radio/r2-d2/004/073/151/4b67d70f713de.gif"},
